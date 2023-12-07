@@ -3,7 +3,7 @@ module.exports = {
     title: "Distractions, Monetized",
     description: "The project blog of Mr86400.",
     lang: "en",
-    siteUrl: "https://monerized.by86400.today/",
+    siteUrl: "https://monetized.by86400.today/",
   },
   feed: { // used in feed.xml.njk
     subtitle: "Lorem ipsum dolor sit amet consecuteor",
